@@ -2,7 +2,8 @@
 #en nu een wijziging
 
 public class Klas {
-	goudmijn("refused!")
+	goudmijn("refused!");
+	merge(42);
 }
 
 public class Barbecue {
