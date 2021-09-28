@@ -10,7 +10,7 @@ public class hallo {
 	}
 
 	private string DevString(){
-		return "Hello Developers!";
+		return "Hallo Developers!";
 	}	
 	
 	public void main() {
