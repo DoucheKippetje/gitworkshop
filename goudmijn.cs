@@ -2,5 +2,10 @@
 #en nu een wijziging
 
 public class Klas {
-	goudmijn("lego did this")
+	goudmijn("refused!")
+}
+
+public class Barbecue {
+	public void burn(){
+	}
 }

@@ -3,6 +3,8 @@
 public class BBQ {
 	void veggie(){
 	}
+	void courgette(){
+	}
 }
 public class hallo {
 	private void WriteAstring(string h_string) {
