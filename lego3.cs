@@ -2,7 +2,7 @@
 public class BBQ {
 	void veggie(){
 	}
-	void courgette(){
+	void flourgette(int a){
 	}
 }
 public class Kip {
