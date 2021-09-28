@@ -2,5 +2,15 @@
 #en nu een wijziging
 
 public class Klas {
-	goudmijn("lego did this")
+	goudmijn("refused!");
+	merge(42);
+}
+
+public class Barbecue {
+	public void burn(){
+	}
+	private void baby(){
+	}
+	public void burn2(){
+	}
 }
