@@ -2,5 +2,5 @@
 #en nu een wijziging
 
 public class Klas {
-	goudmijn()
+	goudmijn("lego did this")
 }
