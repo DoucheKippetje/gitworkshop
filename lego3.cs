@@ -1,4 +1,6 @@
 // lego 3
+
+
 public class hallo {
 	private void WriteAstring(string h_string) {
 		Console.WriteLine(h_string);
@@ -11,4 +13,7 @@ public class hallo {
 	public void main() {
 		WriteAString(DevString());
 	}	
+	private void lego() {
+		int x = 1;
+	}
 }
