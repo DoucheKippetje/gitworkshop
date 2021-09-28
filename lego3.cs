@@ -1,5 +1,9 @@
 // lego 3
-
+public class Kip {
+	int bbq(bool veggie){
+		// to be written
+	}
+}
 
 public class hallo {
 	private void WriteAstring(string h_string) {
